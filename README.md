@@ -58,7 +58,7 @@ Retail businesses need to monitor sales, profitability, and regional performance
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard/Retail Dashboard screenshot.png)
+![Dashboard](dashboard/RetailDashboardscreenshot.png)
 
 ---
 
