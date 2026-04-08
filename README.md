@@ -66,11 +66,10 @@ Retail businesses need to monitor sales, profitability, and regional performance
 
 * data/ → Dataset
 * notebooks/ → Data analysis (Colab notebook)
-* scripts/ → Python scripts (optional)
+* scripts/ → Python scripts 
 * dashboard/ → Power BI file & screenshot
 
 ---
 
 ## 🚀 Author
-
-Your Name
+Narmadhadevi Palaniappan
